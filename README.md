@@ -15,3 +15,6 @@ Lanuch the Cypress runner locally
 
 ### Run e2e tests
 - run command `npx cypress run --env TAGS=@e2e`<img width="1155" alt="cypress cucumber tag e2e" src="https://user-images.githubusercontent.com/48189320/214960746-d753b25b-119b-48a0-ac3c-aee800884129.png">
+
+## Reference
+- [@badeball/cypress-cucumber-preprocessor](https://github.com/badeball/cypress-cucumber-preprocessor)
